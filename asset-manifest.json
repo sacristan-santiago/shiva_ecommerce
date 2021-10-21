@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sacristan-santiago/shiva_ecommerce/static/css/main.9c911898.chunk.css",
-    "main.js": "/sacristan-santiago/shiva_ecommerce/static/js/main.5fee82fe.chunk.js",
-    "main.js.map": "/sacristan-santiago/shiva_ecommerce/static/js/main.5fee82fe.chunk.js.map",
-    "runtime-main.js": "/sacristan-santiago/shiva_ecommerce/static/js/runtime-main.373128b8.js",
-    "runtime-main.js.map": "/sacristan-santiago/shiva_ecommerce/static/js/runtime-main.373128b8.js.map",
-    "static/js/2.f97ada00.chunk.js": "/sacristan-santiago/shiva_ecommerce/static/js/2.f97ada00.chunk.js",
-    "static/js/2.f97ada00.chunk.js.map": "/sacristan-santiago/shiva_ecommerce/static/js/2.f97ada00.chunk.js.map",
-    "static/js/3.5a9a6558.chunk.js": "/sacristan-santiago/shiva_ecommerce/static/js/3.5a9a6558.chunk.js",
-    "static/js/3.5a9a6558.chunk.js.map": "/sacristan-santiago/shiva_ecommerce/static/js/3.5a9a6558.chunk.js.map",
-    "index.html": "/sacristan-santiago/shiva_ecommerce/index.html",
-    "static/css/main.9c911898.chunk.css.map": "/sacristan-santiago/shiva_ecommerce/static/css/main.9c911898.chunk.css.map",
-    "static/js/2.f97ada00.chunk.js.LICENSE.txt": "/sacristan-santiago/shiva_ecommerce/static/js/2.f97ada00.chunk.js.LICENSE.txt"
+    "main.css": "/shiva_ecommerce/static/css/main.82e12280.chunk.css",
+    "main.js": "/shiva_ecommerce/static/js/main.03ef4362.chunk.js",
+    "main.js.map": "/shiva_ecommerce/static/js/main.03ef4362.chunk.js.map",
+    "runtime-main.js": "/shiva_ecommerce/static/js/runtime-main.ab1dec3f.js",
+    "runtime-main.js.map": "/shiva_ecommerce/static/js/runtime-main.ab1dec3f.js.map",
+    "static/js/2.4eab17c6.chunk.js": "/shiva_ecommerce/static/js/2.4eab17c6.chunk.js",
+    "static/js/2.4eab17c6.chunk.js.map": "/shiva_ecommerce/static/js/2.4eab17c6.chunk.js.map",
+    "static/js/3.5a9a6558.chunk.js": "/shiva_ecommerce/static/js/3.5a9a6558.chunk.js",
+    "static/js/3.5a9a6558.chunk.js.map": "/shiva_ecommerce/static/js/3.5a9a6558.chunk.js.map",
+    "index.html": "/shiva_ecommerce/index.html",
+    "static/css/main.82e12280.chunk.css.map": "/shiva_ecommerce/static/css/main.82e12280.chunk.css.map",
+    "static/js/2.4eab17c6.chunk.js.LICENSE.txt": "/shiva_ecommerce/static/js/2.4eab17c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.373128b8.js",
-    "static/js/2.f97ada00.chunk.js",
-    "static/css/main.9c911898.chunk.css",
-    "static/js/main.5fee82fe.chunk.js"
+    "static/js/runtime-main.ab1dec3f.js",
+    "static/js/2.4eab17c6.chunk.js",
+    "static/css/main.82e12280.chunk.css",
+    "static/js/main.03ef4362.chunk.js"
   ]
 }
