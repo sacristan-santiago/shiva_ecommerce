@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shiva_ecommerce/static/css/main.82e12280.chunk.css",
-    "main.js": "/shiva_ecommerce/static/js/main.03ef4362.chunk.js",
-    "main.js.map": "/shiva_ecommerce/static/js/main.03ef4362.chunk.js.map",
+    "main.js": "/shiva_ecommerce/static/js/main.f3f3fae4.chunk.js",
+    "main.js.map": "/shiva_ecommerce/static/js/main.f3f3fae4.chunk.js.map",
     "runtime-main.js": "/shiva_ecommerce/static/js/runtime-main.ab1dec3f.js",
     "runtime-main.js.map": "/shiva_ecommerce/static/js/runtime-main.ab1dec3f.js.map",
     "static/js/2.4eab17c6.chunk.js": "/shiva_ecommerce/static/js/2.4eab17c6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ab1dec3f.js",
     "static/js/2.4eab17c6.chunk.js",
     "static/css/main.82e12280.chunk.css",
-    "static/js/main.03ef4362.chunk.js"
+    "static/js/main.f3f3fae4.chunk.js"
   ]
 }
